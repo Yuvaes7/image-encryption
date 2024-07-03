@@ -1,0 +1,17 @@
+{
+  "name": "imcrypt",
+  "version": "0.0.1",
+  "description": "An image encryption node-js CLI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "imcrypt": "./index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.0.0"
+  }
+}
