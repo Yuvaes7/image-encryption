@@ -1,7 +1,3 @@
-Here’s a detailed guide for installing and using the image encryption CLI tool, which you can include in your README file on GitHub.
-
----
-
 # Image Encryption CLI Tool
 
 This project provides a command-line interface (CLI) tool for encrypting and decrypting images using Node.js. The tool ensures that images are securely encrypted and can only be decrypted with a specific key.
@@ -225,4 +221,4 @@ function decrypt(inputImagePath, keyPath, outputImagePath) {
 module.exports = decrypt;
 ```
 
-This comprehensive guide should help users install, set up, and use the image encryption CLI tool. You can copy this into your `README.md` file on GitHub.
+if you have any quires ask me "yuvakiranreddy7@gmail.com "
