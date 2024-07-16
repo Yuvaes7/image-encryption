@@ -26,7 +26,7 @@ To get started, follow these steps:
 First, clone the repository from GitHub:
 
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/imcrypt.git
+ git clone https://github.com/Yuvaes7/image-encryption.git
 cd imcrypt
 ```
 
